@@ -1,0 +1,1670 @@
+[
+ {
+   "Praktiksteds navn": "Børnehusene Nivå",
+   "Praktikstedets adresse": "Nivåhøj 80",
+   "Praktikstedets postnummer": 2990,
+   "Praktikstedets by": "Nivå"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Cassiopeia",
+   "Praktikstedets adresse": "Hvidovre Enghavevej 17",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Tumlebo, børnehus",
+   "Praktikstedets adresse": "Saltsøvej 7",
+   "Praktikstedets postnummer": 4050,
+   "Praktikstedets by": "Skibby"
+ },
+ {
+   "Praktiksteds navn": "Distrikt Baltorp, børnehus Kirstinevang",
+   "Praktikstedets adresse": "Rugvænget 33",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "Mini Ajax - Børn i bevægelse",
+   "Praktikstedets adresse": "Bavnehøj Alle 32",
+   "Praktikstedets postnummer": 2450,
+   "Praktikstedets by": "København SV"
+ },
+ {
+   "Praktiksteds navn": "Anna Wulffs Børnehus (integ.inst.)",
+   "Praktikstedets adresse": "Christianshavns Voldgade 63",
+   "Praktikstedets postnummer": 1424,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitution Æblehuset",
+   "Praktikstedets adresse": "Dalbugten 30",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Stenurten",
+   "Praktikstedets adresse": "Rantzausgade 53",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Område Buddinge",
+   "Praktikstedets adresse": "Frødings Allé 6",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Pandekagehuset",
+   "Praktikstedets adresse": "Skjulhøj Alle 52",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Område Skovbrynet",
+   "Praktikstedets adresse": "Kildebakken 22",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Regnbuen",
+   "Praktikstedets adresse": "Råbrovej 16",
+   "Praktikstedets postnummer": 2765,
+   "Praktikstedets by": "Smørum"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Solmarken",
+   "Praktikstedets adresse": "Borgmester Fischers Vej 12",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Bistrup Have",
+   "Praktikstedets adresse": "Abildgårdsparken 8C &  D",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Dosseringens Vuggestue",
+   "Praktikstedets adresse": "Ewaldsgade 1",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Skovager - afd. Bøgen vuggestue",
+   "Praktikstedets adresse": "Stenager 191",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Skoven",
+   "Praktikstedets adresse": "Granskoven 169",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kysten",
+   "Praktikstedets adresse": "Klyveren 4",
+   "Praktikstedets postnummer": 3070,
+   "Praktikstedets by": "Snekkersten"
+ },
+ {
+   "Praktiksteds navn": "Kildehuset",
+   "Praktikstedets adresse": "Vejtoften 1- 3",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Villa Bohéme",
+   "Praktikstedets adresse": "Bøhmensgade 10",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Måløv By",
+   "Praktikstedets adresse": "Liljevangsvej 38 B",
+   "Praktikstedets postnummer": 2760,
+   "Praktikstedets by": "Måløv"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Bellahøj",
+   "Praktikstedets adresse": "Bellahøjvej 42A",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Vuggestuen Skottegården",
+   "Praktikstedets adresse": "Skottegården 83",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Fuglemosen",
+   "Praktikstedets adresse": "Fuglemosen 20",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Mejsely",
+   "Praktikstedets adresse": "Hallingparken 22",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Forældrekredsens bønehave",
+   "Praktikstedets adresse": "Ellesletten 20",
+   "Praktikstedets postnummer": 2950,
+   "Praktikstedets by": "Vedbæk"
+ },
+ {
+   "Praktiksteds navn": "Område Mørkhøj/Enghavegård",
+   "Praktikstedets adresse": "Holmevej 15",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Elverhuset",
+   "Praktikstedets adresse": "Tornerosevej 66-68",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Nøddeboparken",
+   "Praktikstedets adresse": "Hasselbo 24",
+   "Praktikstedets postnummer": 2665,
+   "Praktikstedets by": "Vallensbæk Strand"
+ },
+ {
+   "Praktiksteds navn": "Hyltebro, Integreret institution",
+   "Praktikstedets adresse": "Esromgade 2A",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Fasangården",
+   "Praktikstedets adresse": "Nordre Fasanvej 75",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Ahornhuset, børnehave",
+   "Praktikstedets adresse": "Ahornvej 50 C",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Distrikt Baltorp, Børnehuset Askelunden",
+   "Praktikstedets adresse": "Grantofteparken 2A",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Støberigade",
+   "Praktikstedets adresse": "Støberigade 3",
+   "Praktikstedets postnummer": 2450,
+   "Praktikstedets by": "København SV"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Krogstenshave",
+   "Praktikstedets adresse": "Ejby Alle 34-35",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Lærkebo",
+   "Praktikstedets adresse": "Ulsøparken 55",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Louisegården, Børnehave",
+   "Praktikstedets adresse": "Peter Bangs Vej 5",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Kasserollen",
+   "Praktikstedets adresse": "Svend Poulsensvej 154",
+   "Praktikstedets postnummer": 3060,
+   "Praktikstedets by": "Espergærde"
+ },
+ {
+   "Praktiksteds navn": "Daginstitutionen Fjordtoppen",
+   "Praktikstedets adresse": "Højvang 9",
+   "Praktikstedets postnummer": 3600,
+   "Praktikstedets by": "Frederikssund"
+ },
+ {
+   "Praktiksteds navn": "Børnehusene Humlebæk",
+   "Praktikstedets adresse": "Boserupvej 101 B",
+   "Praktikstedets postnummer": 3050,
+   "Praktikstedets by": "Humlebæk"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kilden",
+   "Praktikstedets adresse": "Borgervænget 9 A",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Troldebo",
+   "Praktikstedets adresse": "Skolestrædet 2-4",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Melby, Jonnasvej, Asserbo",
+   "Praktikstedets adresse": "Jonnasvej 4",
+   "Praktikstedets postnummer": 3360,
+   "Praktikstedets by": "Liseleje"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Sommerlyst",
+   "Praktikstedets adresse": "Allégade 24",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Blomsterspiren Vuggestue",
+   "Praktikstedets adresse": "Ledreborg Allé 35",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Vuggestuen Barndommens Gade",
+   "Praktikstedets adresse": "Tøndergade 10 / Vesterfælledvej 19",
+   "Praktikstedets postnummer": 1750,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "Skov- og musikbørnehaven Koglerne",
+   "Praktikstedets adresse": "Folehavevej 66",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Frederiksberg Folkebørnehave og Vuggestue",
+   "Praktikstedets adresse": "Rolfs Plads 3, 1.",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Fengersvej",
+   "Praktikstedets adresse": "Fengersvej 22-28",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Børnebyens Daginstitution",
+   "Praktikstedets adresse": "Skatmestervej 7-11",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Herlevgård",
+   "Praktikstedets adresse": "Herlevgårdsvej 25",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Forfatterhuset",
+   "Praktikstedets adresse": "Edith Rodes Vej 2",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børnenes Verden",
+   "Praktikstedets adresse": "Slesviggade 12, 1.",
+   "Praktikstedets postnummer": 1762,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "integ.inst. Børnevænget",
+   "Praktikstedets adresse": "Borgervænget 13",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Marthagården",
+   "Praktikstedets adresse": "Peter Bangsvej 12",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Ved Skoven",
+   "Praktikstedets adresse": "Egebjergvang 72-74",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Anishaven",
+   "Praktikstedets adresse": "Anishaven 23-25",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Skovbørnehave Ravneholm",
+   "Praktikstedets adresse": "Vangeboled 3",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Blomsterhuset",
+   "Praktikstedets adresse": "Bank Mikkelsensvej 12",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Område Stengård",
+   "Praktikstedets adresse": "Solnavej 74B",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Stensmosen",
+   "Praktikstedets adresse": "Stensmosevej 12",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Havblik",
+   "Praktikstedets adresse": "Gerbrandsvej 5",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Stjernen",
+   "Praktikstedets adresse": "Arkaderne 58 og 72",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Essedalen",
+   "Praktikstedets adresse": "Essedal 12",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Rosenhøj",
+   "Praktikstedets adresse": "Kettegård Allé 12",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Brønderslev Alle",
+   "Praktikstedets adresse": "Brønderslev Allé 1-3",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Himmelrummet",
+   "Praktikstedets adresse": "Bryggervangen 11",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Fuglekær",
+   "Praktikstedets adresse": "Rødkælkevej 26",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Snorretoppen",
+   "Praktikstedets adresse": "Snorregade 12",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnebyen Vandværket",
+   "Praktikstedets adresse": "Studiestrædet 54",
+   "Praktikstedets postnummer": 1554,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Toftekær",
+   "Praktikstedets adresse": "Egelundsvej 6C",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Spættebo",
+   "Praktikstedets adresse": "Kisumparken 1",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Køjevænget",
+   "Praktikstedets adresse": "Køjevænget 91",
+   "Praktikstedets postnummer": 2791,
+   "Praktikstedets by": "Dragør"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitution Humlebien",
+   "Praktikstedets adresse": "Byvej 248C",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Broparken, integreret institution",
+   "Praktikstedets adresse": "Lisbjergvej 3",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Bryggen",
+   "Praktikstedets adresse": "Snorresgade 24",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Margrethegårdens Børnehus",
+   "Praktikstedets adresse": "Retortvej 49",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Dalgården",
+   "Praktikstedets adresse": "Dalstrøget 150",
+   "Praktikstedets postnummer": 2870,
+   "Praktikstedets by": "Dyssegård"
+ },
+ {
+   "Praktiksteds navn": "Christianshavns Asyl, integ.inst.",
+   "Praktikstedets adresse": "Amagergade 2",
+   "Praktikstedets postnummer": 1423,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Område Vadgård",
+   "Praktikstedets adresse": "Frødings Allé 6",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Humlehuset",
+   "Praktikstedets adresse": "Hummeltoften 33",
+   "Praktikstedets postnummer": 2830,
+   "Praktikstedets by": "Virum"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Eventyrhuset",
+   "Praktikstedets adresse": "Perikumhaven 26",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Artibus",
+   "Praktikstedets adresse": "Bregnegårdsvej 21 A",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Tusindfryd, integ.inst./udflytterbørnehave",
+   "Praktikstedets adresse": "Lundtoftegade 23",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Anne-Mariegården",
+   "Praktikstedets adresse": "Kirsebærhaven 8",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Silergård",
+   "Praktikstedets adresse": "Gurrelund 76",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Martha Hjemmet, Integ.inst.",
+   "Praktikstedets adresse": "Brohusgade 9",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Diamanten område 6",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Rådvadsvej",
+   "Praktikstedets adresse": "Rådvadsvej 142",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Bavnehøj",
+   "Praktikstedets adresse": "Tranehavevej 15",
+   "Praktikstedets postnummer": 2450,
+   "Praktikstedets by": "København SV"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Troldehøj",
+   "Praktikstedets adresse": "Egelundsvej 6E",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Kernehuset",
+   "Praktikstedets adresse": "Nøjsomhedsvej 28-30",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Paletten",
+   "Praktikstedets adresse": "Udlejrevej 13A",
+   "Praktikstedets postnummer": 3650,
+   "Praktikstedets by": "Ølstykke"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kærlodden",
+   "Praktikstedets adresse": "Kærlodden 1-3",
+   "Praktikstedets postnummer": 2760,
+   "Praktikstedets by": "Måløv"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Brillesøen",
+   "Praktikstedets adresse": "Tranehusene 75-77",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Engtoften",
+   "Praktikstedets adresse": "Vestervej 25A",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset kufferten",
+   "Praktikstedets adresse": "Tesdorpfsvej 25",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Mælkevejen",
+   "Praktikstedets adresse": "Nørrekær 1",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Vuggestuen Den Gule Prik",
+   "Praktikstedets adresse": "Baggesensgade 1",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Jægersborg Børnehus, Afdeling Solsiden",
+   "Praktikstedets adresse": "Solsiden 16",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Tvillingehuset, Integ.inst.",
+   "Praktikstedets adresse": "Gildbrovej 35+37A",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Piletræet",
+   "Praktikstedets adresse": "Løkkekrogen 11D",
+   "Praktikstedets postnummer": 2625,
+   "Praktikstedets by": "Vallensbæk"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Urtehaven",
+   "Praktikstedets adresse": "Møllegade 33-35",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Område Bagsværd",
+   "Praktikstedets adresse": "Kildebakken 22",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Humlebien",
+   "Praktikstedets adresse": "C.V.E. Knuthsvej 1",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Paletten",
+   "Praktikstedets adresse": "Øresundsvej 10B",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Væksthuset",
+   "Praktikstedets adresse": "Åkandevej 43",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Jægersborg Børnehus, Afdeling Sauntesvej",
+   "Praktikstedets adresse": "Sauntesvej 3-5",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Skovshoved Vuggestue",
+   "Praktikstedets adresse": "Korsgårdsvej 9",
+   "Praktikstedets postnummer": 2920,
+   "Praktikstedets by": "Charlottenlund"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Solsikken",
+   "Praktikstedets adresse": "Skt. Pedersvej 8",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Område Gladsaxe",
+   "Praktikstedets adresse": "Kildebakken 22",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Møllehøj",
+   "Praktikstedets adresse": "Lillestræde 7",
+   "Praktikstedets postnummer": 3660,
+   "Praktikstedets by": "Stenløse"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Slottet",
+   "Praktikstedets adresse": "Slotsherrens Have 160",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Villa Kulla",
+   "Praktikstedets adresse": "Søbyvej 9 A",
+   "Praktikstedets postnummer": 2740,
+   "Praktikstedets by": "Skovlunde"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Storken",
+   "Praktikstedets adresse": "Storkens Kvarter 12",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Skovstjernen",
+   "Praktikstedets adresse": "Dr. Neergaards Vej 11",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Skt. Markus Sogns Børnehus",
+   "Praktikstedets adresse": "Amalievej 5",
+   "Praktikstedets postnummer": 1875,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Klynge B, klyngeleder Rikke T. Nielsen",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Udflytterbørnehaven Bøgely",
+   "Praktikstedets adresse": "Fredericiagade 84, 1.",
+   "Praktikstedets postnummer": 1310,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Bryggehuset Integr. Inst.",
+   "Praktikstedets adresse": "Artillerivej 71 D",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Regnbuen",
+   "Praktikstedets adresse": "Vejlebrovej 132",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "Integreret Institution Arken",
+   "Praktikstedets adresse": "Vindingevej 20",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset På Sporet, Trinbrættet",
+   "Praktikstedets adresse": "Liljens Kvt. 5",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Ørnen",
+   "Praktikstedets adresse": "Hulgårdsplads 15",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Ellegården",
+   "Praktikstedets adresse": "Vangedevej 197",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Tinsoldaten",
+   "Praktikstedets adresse": "Østre Messegade 6",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Planeten",
+   "Praktikstedets adresse": "Solbjerg Have 4 B + 10",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Stenhøjgårdsvej",
+   "Praktikstedets adresse": "Stenhøjgårdsvej 2-4",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Klynge D, klyngeleder Maj-Britt Marcussen",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Ejbyvang",
+   "Praktikstedets adresse": "Statenevej 1",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Søstjernen",
+   "Praktikstedets adresse": "Grækenlandsvej 90 B",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Skt. Jørgen",
+   "Praktikstedets adresse": "Vordroffsvej 46-48",
+   "Praktikstedets postnummer": 1900,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Bryghuset",
+   "Praktikstedets adresse": "Forhåbningsholms Allé 24",
+   "Praktikstedets postnummer": 1904,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Integreret institution Vægterparken",
+   "Praktikstedets adresse": "Vægterparken 452",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Kennedygården, 0-6 års inst.",
+   "Praktikstedets adresse": "Nøjsomhedsvej 8",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Vuggestue Titanrosen",
+   "Praktikstedets adresse": "Titangade 7",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset ved Volden",
+   "Praktikstedets adresse": "Ved Stadsgraven 11",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Kildedalen",
+   "Praktikstedets adresse": "Salpetermosen 2 C",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Rønneholm",
+   "Praktikstedets adresse": "Rønneholmsvej 2",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Troldehøj",
+   "Praktikstedets adresse": "Brillerne 4",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Hallandsgården",
+   "Praktikstedets adresse": "Hallandsvej 59",
+   "Praktikstedets postnummer": 3140,
+   "Praktikstedets by": "Ålsgårde"
+ },
+ {
+   "Praktiksteds navn": "Klynge F, klyngeleder Carina P Rutell",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Universet",
+   "Praktikstedets adresse": "Bomager 16",
+   "Praktikstedets postnummer": 2640,
+   "Praktikstedets by": "Hedehusene"
+ },
+ {
+   "Praktiksteds navn": "ByToften",
+   "Praktikstedets adresse": "Toften 4",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Islemark",
+   "Praktikstedets adresse": "Brabrandvej 33",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Distrikt Hedegården",
+   "Praktikstedets adresse": "Magleparken 8",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "Klynge E, klyngeleder Tina Gjerstrup",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Lunden",
+   "Praktikstedets adresse": "Ordrup Jagtvej 211",
+   "Praktikstedets postnummer": 2920,
+   "Praktikstedets by": "Charlottenlund"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Dalgas Have",
+   "Praktikstedets adresse": "Dalgas Have 20",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Bybjerget Vuggestue",
+   "Praktikstedets adresse": "Valhøjs Allé 103",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Vinkelhuse",
+   "Praktikstedets adresse": "Englandsvej 299",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Oceanet",
+   "Praktikstedets adresse": "Hvidovrevej 510",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Trækronerne",
+   "Praktikstedets adresse": "Vejlebrovej 186",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Tornholms Ager",
+   "Praktikstedets adresse": "Tornholms Ager 2",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Stien",
+   "Praktikstedets adresse": "Vejlegårdsparken 76-78",
+   "Praktikstedets postnummer": 2665,
+   "Praktikstedets by": "Vallensbæk Strand"
+ },
+ {
+   "Praktiksteds navn": "Krudthuset",
+   "Praktikstedets adresse": "Refshalevej 1",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Trekløveren, Cassiopeia",
+   "Praktikstedets adresse": "Bakkevænget 17",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Strandbo Børnehus",
+   "Praktikstedets adresse": "Strandskolevej 140",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Kirsebærhuset",
+   "Praktikstedets adresse": "Idrætsvej 73-75",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Integ. inst. Syvhøjvænge",
+   "Praktikstedets adresse": "Syvhøjvænge 163-165",
+   "Praktikstedets postnummer": 2625,
+   "Praktikstedets by": "Vallensbæk"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Fuglsang",
+   "Praktikstedets adresse": "Geels Plads 44",
+   "Praktikstedets postnummer": 2830,
+   "Praktikstedets by": "Virum"
+ },
+ {
+   "Praktiksteds navn": "Dagtilbud Rosenåen",
+   "Praktikstedets adresse": "Ørnebjergvej 10",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Grønnebakken",
+   "Praktikstedets adresse": "Dæmringsvej 2",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Skattesuset",
+   "Praktikstedets adresse": "Klitmøllervej 69-71",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Den grønne planet",
+   "Praktikstedets adresse": "Storekrog 72 A",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Jordkloden, børnehave",
+   "Praktikstedets adresse": "Tibirkegade 19, st.tv.",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Kålormen",
+   "Praktikstedets adresse": "Allersgade 5",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Bakketoppen",
+   "Praktikstedets adresse": "Bispebjerg Bakke 13",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "Adventskirkens Børnehave",
+   "Praktikstedets adresse": "Skibelundsvej 20",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Delfinen",
+   "Praktikstedets adresse": "Hellerupvej 18",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Kroghøj, børnehus",
+   "Praktikstedets adresse": "Jordhøjvej 1",
+   "Praktikstedets postnummer": 3550,
+   "Praktikstedets by": "Slangerup"
+ },
+ {
+   "Praktiksteds navn": "Galaxen intgr. Institution",
+   "Praktikstedets adresse": "Øresundsvej 10 A",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Distrikt Baltorp, Børnehuset Stjernehuset",
+   "Praktikstedets adresse": "Grønnemarken 8",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Himmelskibet",
+   "Praktikstedets adresse": "Ved Renden 55",
+   "Praktikstedets postnummer": 2870,
+   "Praktikstedets by": "Dyssegård"
+ },
+ {
+   "Praktiksteds navn": "Integ. inst. Adelgården - Vuggestuen",
+   "Praktikstedets adresse": "Adelgade 1",
+   "Praktikstedets postnummer": 1404,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Nordstjernen",
+   "Praktikstedets adresse": "Brøndby Nord Vej 107B",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Æblehaven",
+   "Praktikstedets adresse": "Nyelandsvej 25B",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Duetten Børnehave",
+   "Praktikstedets adresse": "Højstrupvej 40",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Område Grønnemose",
+   "Praktikstedets adresse": "Holmevej 15",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Klokkeblomsten",
+   "Praktikstedets adresse": "Gl. Bagsværdvej 8",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kastanjen",
+   "Praktikstedets adresse": "Rypehusene 15-19",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Nabohuset",
+   "Praktikstedets adresse": "Saxtorphsvej 11",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Gaia",
+   "Praktikstedets adresse": "Amagerbrogade 262, 1. sal",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Hyldebakkegård",
+   "Praktikstedets adresse": "Park Allé 85",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Glyptoteket",
+   "Praktikstedets adresse": "Tietgensgade 31 C",
+   "Praktikstedets postnummer": 1704,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Blæksprutten",
+   "Praktikstedets adresse": "Amager Fælledvej 53",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Frydenhøj",
+   "Praktikstedets adresse": "Egevolden 30",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Artillerivejens Krudtugler & Slottet",
+   "Praktikstedets adresse": "Artillerivej 71 A-B",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Tyttebøvsen",
+   "Praktikstedets adresse": "Brydes Allé 46",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Tjørneparken",
+   "Praktikstedets adresse": "Rådmand Billesvej 136",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset ved Vejen",
+   "Praktikstedets adresse": "Gl. Landevej 47B",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Jorn",
+   "Praktikstedets adresse": "Asger Jorns Alle 20",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Udflyttetbørnehaven Holmens Sogn",
+   "Praktikstedets adresse": "Opsamling Havnegade 53B kld. (Rosenlundsvej 27, 35",
+   "Praktikstedets postnummer": 1058,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Idrætsinstitutionen LilleArena",
+   "Praktikstedets adresse": "Robert Jacobsens Vej 4",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Labyrinten",
+   "Praktikstedets adresse": "Rugagervej 1",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Vesterled",
+   "Praktikstedets adresse": "Østervang 11",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "Jagtvejens Asyl vuggestue",
+   "Praktikstedets adresse": "Prinsesse Charlotte Gade 59",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven TK skovhytten",
+   "Praktikstedets adresse": "Tuborgvej 185",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "Lindetræet",
+   "Praktikstedets adresse": "Lindehaven 3",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Harevænget",
+   "Praktikstedets adresse": "Harevænget 1",
+   "Praktikstedets postnummer": 2791,
+   "Praktikstedets by": "Dragør"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Gl. Kirkevej",
+   "Praktikstedets adresse": "Gl. Kirkevej 128",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Amalieparken",
+   "Praktikstedets adresse": "Vejlegårdsparken 57",
+   "Praktikstedets postnummer": 2665,
+   "Praktikstedets by": "Vallensbæk Strand"
+ },
+ {
+   "Praktiksteds navn": "Vuggestuen Smørhullet",
+   "Praktikstedets adresse": "Fanøgade 21",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Idrætsinstitutionen Bavnehøj",
+   "Praktikstedets adresse": "Bavnehøj Alle 40",
+   "Praktikstedets postnummer": 2450,
+   "Praktikstedets by": "København SV"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Kagsmosen",
+   "Praktikstedets adresse": "Stationsalleen 20",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Solsikken",
+   "Praktikstedets adresse": "Herlevgårdsvej 21",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Kastaniehuset",
+   "Praktikstedets adresse": "Kagsåkollegiet 210, 214, 216",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Carolinehaven",
+   "Praktikstedets adresse": "Struensegade 15 A, 1.",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børneambassaden, intg. inst.",
+   "Praktikstedets adresse": "H.C. Ørstedsvej 19 B",
+   "Praktikstedets postnummer": 1879,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Solgården",
+   "Praktikstedets adresse": "Cathrine Boothsvej 22",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Gravhunden",
+   "Praktikstedets adresse": "Magnoliavej 58",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Trekløveren",
+   "Praktikstedets adresse": "Hvidovrevej 65",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Det Røde Hjørne",
+   "Praktikstedets adresse": "Sundholmsvej 10-14",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Blikfang, Integreret Institution",
+   "Praktikstedets adresse": "Prinsessegade 58",
+   "Praktikstedets postnummer": 1422,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Mælkebøtten",
+   "Praktikstedets adresse": "Højbjerggårdsvej 27",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Mariehønen",
+   "Praktikstedets adresse": "Kronborg Ladegårdsvej 114",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Eremitagen",
+   "Praktikstedets adresse": "Eremitageparken 331-333",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "Birkedal",
+   "Praktikstedets adresse": "Kollekollevej 75",
+   "Praktikstedets postnummer": 3500,
+   "Praktikstedets by": "Værløse"
+ },
+ {
+   "Praktiksteds navn": "Eventyrhuset",
+   "Praktikstedets adresse": "Sophienborg Allé 4",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "KVL's børnehus - Vuggestue",
+   "Praktikstedets adresse": "Rolighedsvej 23 D",
+   "Praktikstedets postnummer": 1958,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Arresø Børnehus",
+   "Praktikstedets adresse": "Bremerholmen 21 st. Lyngby",
+   "Praktikstedets postnummer": 3320,
+   "Praktikstedets by": "Skævinge"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kirsebærgården",
+   "Praktikstedets adresse": "Kirsebærgården 5",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ },
+ {
+   "Praktiksteds navn": "Helsinge Børnehuse, Boager",
+   "Praktikstedets adresse": "Boagervej 16b",
+   "Praktikstedets postnummer": 3200,
+   "Praktikstedets by": "Helsinge"
+ },
+ {
+   "Praktiksteds navn": "Lillerød Børnehus",
+   "Praktikstedets adresse": "Kollerødvej 8A",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Tungegården",
+   "Praktikstedets adresse": "Tungegårdsvej 3",
+   "Praktikstedets postnummer": 3650,
+   "Praktikstedets by": "Ølstykke"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Bakkebo",
+   "Praktikstedets adresse": "Lystrupvej 9 A",
+   "Praktikstedets postnummer": 3550,
+   "Praktikstedets by": "Slangerup"
+ },
+ {
+   "Praktiksteds navn": "Farum Nordby Børnehus",
+   "Praktikstedets adresse": "Regimentsvej 14",
+   "Praktikstedets postnummer": 3520,
+   "Praktikstedets by": "Farum"
+ },
+ {
+   "Praktiksteds navn": "Stokrosen Børnehave",
+   "Praktikstedets adresse": "Stokholmsvej 14 A",
+   "Praktikstedets postnummer": 3060,
+   "Praktikstedets by": "Espergærde"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Stjernedrys",
+   "Praktikstedets adresse": "Trækbanen 14",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Kregme, afd. Præstesvinget",
+   "Praktikstedets adresse": "Præstesvinget 3",
+   "Praktikstedets postnummer": 3300,
+   "Praktikstedets by": "Frederiksværk"
+ },
+ {
+   "Praktiksteds navn": "Sct.Georgs Gårdens Vuggestue",
+   "Praktikstedets adresse": "Vangeboled 1",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Baggersvej",
+   "Praktikstedets adresse": "Baggersvej 17",
+   "Praktikstedets postnummer": 3300,
+   "Praktikstedets by": "Frederiksværk"
+ },
+ {
+   "Praktiksteds navn": "Mariakringlen",
+   "Praktikstedets adresse": "Nygade 6c",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Firkløveren",
+   "Praktikstedets adresse": "Maglekærvej 6",
+   "Praktikstedets postnummer": 3330,
+   "Praktikstedets by": "Gørløse"
+ },
+ {
+   "Praktiksteds navn": "Georgs Vuggstue",
+   "Praktikstedets adresse": "Ålholmparken 2",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Bakkevej",
+   "Praktikstedets adresse": "Bakkevej 23",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Ravnsholtklyngen",
+   "Praktikstedets adresse": "Søparken 1 B",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ },
+ {
+   "Praktiksteds navn": "Langkæret",
+   "Praktikstedets adresse": "Langkæret 66",
+   "Praktikstedets postnummer": 3540,
+   "Praktikstedets by": "Lynge"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Spiloppen",
+   "Praktikstedets adresse": "Gefionsparken 24",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Løvehuset, integreret inst.",
+   "Praktikstedets adresse": "Alsvej 6",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Hindbærvangen",
+   "Praktikstedets adresse": "Hindbærvangen 222",
+   "Praktikstedets postnummer": 2765,
+   "Praktikstedets by": "Smørum"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Lilletoften",
+   "Praktikstedets adresse": "Lilletoften 21-23",
+   "Praktikstedets postnummer": 2740,
+   "Praktikstedets by": "Skovlunde"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Troldehøjen",
+   "Praktikstedets adresse": "Kirstinehøj 17, Nødebo",
+   "Praktikstedets postnummer": 3480,
+   "Praktikstedets by": "Fredensborg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Pelikanen",
+   "Praktikstedets adresse": "Junggreensvej 12B",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Integ.inst. Hulahophuset",
+   "Praktikstedets adresse": "Prinsesse Charlottes Gade 46",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Klydebo",
+   "Praktikstedets adresse": "Albjergparken 55",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "Montebello Børnehus",
+   "Praktikstedets adresse": "Gurrevej 90",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "Toftelund",
+   "Praktikstedets adresse": "Højvang 6",
+   "Praktikstedets postnummer": 3600,
+   "Praktikstedets by": "Frederikssund"
+ },
+ {
+   "Praktiksteds navn": "Børnegården Alsvej, integreret inst.",
+   "Praktikstedets adresse": "Alsvej 83",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Kornmarkens Børnehuse, afd. Sommerengen",
+   "Praktikstedets adresse": "Kaj Sommers Vej 29",
+   "Praktikstedets postnummer": 3320,
+   "Praktikstedets by": "Skævinge"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset ved Søerne",
+   "Praktikstedets adresse": "Niels Ebbesensvej 3 B",
+   "Praktikstedets postnummer": 1911,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Vandfaldet",
+   "Praktikstedets adresse": "Torvet 1",
+   "Praktikstedets postnummer": 3660,
+   "Praktikstedets by": "Stenløse"
+ },
+ {
+   "Praktiksteds navn": "Børnehaven Stadens Vænge",
+   "Praktikstedets adresse": "Stadens Vænge 5",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Deltidsbørnehaven Smyrnavej",
+   "Praktikstedets adresse": "Smyrnavej 22, st.",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset ved den Kgl. Porcelænsfabrik",
+   "Praktikstedets adresse": "Virginiavej 7",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Harmonien",
+   "Praktikstedets adresse": "Mariendalsvej 24",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Stjernen",
+   "Praktikstedets adresse": "Kronprinsesse Sofies Vej 29-31",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Ellekilde",
+   "Praktikstedets adresse": "Bybjergvej 5-7",
+   "Praktikstedets postnummer": 2740,
+   "Praktikstedets by": "Skovlunde"
+ },
+ {
+   "Praktiksteds navn": "Integr.inst. Sommerhaven",
+   "Praktikstedets adresse": "Peberhaven 13",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "De Tre Huse, afd. Fredskovhellet",
+   "Praktikstedets adresse": "Fredskovhellet 1 B",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Brede Børnehave",
+   "Praktikstedets adresse": "Brede 81",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Spiloppen",
+   "Praktikstedets adresse": "N.J. Fjords Alle 15-17",
+   "Praktikstedets postnummer": 1957,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Solbjerg",
+   "Praktikstedets adresse": "Solbjerghaven 2",
+   "Praktikstedets postnummer": 3500,
+   "Praktikstedets by": "Værløse"
+ },
+ {
+   "Praktiksteds navn": "Børneinstitutionen Søtorp",
+   "Praktikstedets adresse": "Vedelavej 4",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Honningkrukken",
+   "Praktikstedets adresse": "Egehegnet 12 - 16",
+   "Praktikstedets postnummer": 2850,
+   "Praktikstedets by": "Nærum"
+ },
+ {
+   "Praktiksteds navn": "Gartneriet, Børnehuset",
+   "Praktikstedets adresse": "Vibekevej 10 - 12",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Kastaniegården",
+   "Praktikstedets adresse": "L E Bruunsvej 1 B",
+   "Praktikstedets postnummer": 2920,
+   "Praktikstedets by": "Charlottenlund"
+ },
+ {
+   "Praktiksteds navn": "Sejlhuset  Udflytterbørnehaven",
+   "Praktikstedets adresse": "Mødrupvej 7A",
+   "Praktikstedets postnummer": 3540,
+   "Praktikstedets by": "Lynge"
+ },
+ {
+   "Praktiksteds navn": "Børnehuset Hørgården",
+   "Praktikstedets adresse": "Brydes Alle 44",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Troldebo, integ. inst.",
+   "Praktikstedets adresse": "Landlyststien 19-21",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "Klynge C, klyngeleder Helle Lundstein",
+   "Praktikstedets adresse": "ikke udfyldt",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Abildgården",
+   "Praktikstedets adresse": "Vasevej 72",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Vuggestuen Villa Nova",
+   "Praktikstedets adresse": "Ringkøbinggade 2-4",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Trekløveren, Vangede Børnehus",
+   "Praktikstedets adresse": "Stolpegårdsvej 12",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Esbønderup Børnehus",
+   "Praktikstedets adresse": "Kornbakken 12",
+   "Praktikstedets postnummer": 3230,
+   "Praktikstedets by": "Græsted"
+ },
+ {
+   "Praktiksteds navn": "Carlsro Vuggestue",
+   "Praktikstedets adresse": "Tårnvej 245",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Helligåndskirkens Børnehave",
+   "Praktikstedets adresse": "Valkendorfsgade 36",
+   "Praktikstedets postnummer": 1151,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Skovvang Børnehus",
+   "Praktikstedets adresse": "Ørnevang 19",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ }
+]

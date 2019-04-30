@@ -1,0 +1,800 @@
+[
+ {
+   "Praktiksteds navn": "Espergærde Skole SFO´er",
+   "Praktikstedets adresse": "Rugmarken 1A",
+   "Praktikstedets postnummer": 3060,
+   "Praktikstedets by": "Espergærde"
+ },
+ {
+   "Praktiksteds navn": "Hellebæk skoles SFO",
+   "Praktikstedets adresse": "Skåningevej 11",
+   "Praktikstedets postnummer": 3140,
+   "Praktikstedets by": "Ålsgårde"
+ },
+ {
+   "Praktiksteds navn": "Klub Skovlunde, Ellekilde",
+   "Praktikstedets adresse": "Bybjergvej 1-3",
+   "Praktikstedets postnummer": 2740,
+   "Praktikstedets by": "Skovlunde"
+ },
+ {
+   "Praktiksteds navn": "Nørre Fælled Skole og Fritidshjem",
+   "Praktikstedets adresse": "Biskop Krags Vænge 7",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Broparkens Byggelegeplads",
+   "Praktikstedets adresse": "Lisbjergvej 3",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "Vejlebroskolens SFO",
+   "Praktikstedets adresse": "Vejledalen 3-5",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "SFO Firkløveren",
+   "Praktikstedets adresse": "Emil Chr. Hansensvej 2",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinstitutionen ved Dyvekeskolen",
+   "Praktikstedets adresse": "Remisevej 2",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "SFO Dronninggårdskolen",
+   "Praktikstedets adresse": "Rønnebærvej 33",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Strandgårdsskolen SFO",
+   "Praktikstedets adresse": "Ishøj Søvej 200",
+   "Praktikstedets postnummer": 2635,
+   "Praktikstedets by": "Ishøj"
+ },
+ {
+   "Praktiksteds navn": "SFO Tømmerupvang",
+   "Praktikstedets adresse": "Ugandavej 118",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Europaskolen (Eurppean After School Care)",
+   "Praktikstedets adresse": "Ny Carlsbergvej 99",
+   "Praktikstedets postnummer": 1799,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "SFO Mølleholmskolen",
+   "Praktikstedets adresse": "Mølleholmen 20",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Børnebyen Vesterbro afdeling Uno",
+   "Praktikstedets adresse": "Alsgade 14",
+   "Praktikstedets postnummer": 1764,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "SFO Universet",
+   "Praktikstedets adresse": "Nyelandsvej 23",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Cassiopeia",
+   "Praktikstedets adresse": "Finsensvej 39 A",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "SFO Ny Holte Skole",
+   "Praktikstedets adresse": "Grünersvej 6",
+   "Praktikstedets postnummer": 2840,
+   "Praktikstedets by": "Holte"
+ },
+ {
+   "Praktiksteds navn": "Fritids og Ungdomsklubben Huset",
+   "Praktikstedets adresse": "Sankt Knudsvej 7",
+   "Praktikstedets postnummer": 1903,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinstitutionen Strandboulevarden",
+   "Praktikstedets adresse": "Rosenvængets Hovedvej 35",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Klub Fortet",
+   "Praktikstedets adresse": "Edisonsvej 3",
+   "Praktikstedets postnummer": 1856,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Ådalens Skole, afd. Nord",
+   "Praktikstedets adresse": "Kornvænget 4",
+   "Praktikstedets postnummer": 3600,
+   "Praktikstedets by": "Frederikssund"
+ },
+ {
+   "Praktiksteds navn": "Buddinge Skole SFO",
+   "Praktikstedets adresse": "Kildebakkegårds Alle 155",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "SFO Blovstrød Skole",
+   "Praktikstedets adresse": "Kærvej 10",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ },
+ {
+   "Praktiksteds navn": "Frederiksborg Byskole HFO, afdeling Bøgelund",
+   "Praktikstedets adresse": "Carlsbergvej 13",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "FI.Brønshøj/Brønshøj fritidshjem",
+   "Praktikstedets adresse": "Præstekærvej 3",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "FI ved Den Classenske Legatskole",
+   "Praktikstedets adresse": "Nørre Voldgade 23",
+   "Praktikstedets postnummer": 1358,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Fritidscenter 4- syd - Irlandsvej/Parmagade",
+   "Praktikstedets adresse": "Jens Warmings Vej 77",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "SFO v. Kongevejens Skole",
+   "Praktikstedets adresse": "Kongsvænget 10",
+   "Praktikstedets postnummer": 2830,
+   "Praktikstedets by": "Virum"
+ },
+ {
+   "Praktiksteds navn": "Filippa",
+   "Praktikstedets adresse": "Filippavej 5",
+   "Praktikstedets postnummer": 1928,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Byggelegepladsen Stengården",
+   "Praktikstedets adresse": "Stengårds plads 6 B",
+   "Praktikstedets postnummer": 3650,
+   "Praktikstedets by": "Ølstykke"
+ },
+ {
+   "Praktiksteds navn": "Klub Dalvangen",
+   "Praktikstedets adresse": "Dalvangsvej 56B",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Nørrebro Park Skole (Bh.kl.)",
+   "Praktikstedets adresse": "Jagtvej 34",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "BFO Måløvhøj Skole, Fredegården",
+   "Praktikstedets adresse": "Kratvej 30",
+   "Praktikstedets postnummer": 2760,
+   "Praktikstedets by": "Måløv"
+ },
+ {
+   "Praktiksteds navn": "SFO Duevej",
+   "Praktikstedets adresse": "Duevej 63",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "Mørkhøj Skole SFO",
+   "Praktikstedets adresse": "Ilbjergs Allé 25",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Gladsaxe Skole SFO",
+   "Praktikstedets adresse": "Gladsaxe Møllevej 127",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Nyager Skole SFO II & III Rødovre Fritidscenter",
+   "Praktikstedets adresse": "Ejbyvej 100",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "SFO Sengeløse Skole",
+   "Praktikstedets adresse": "Spangåvej 10",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "SFO Hedehusene Skole",
+   "Praktikstedets adresse": "Græshøjvej 4",
+   "Praktikstedets postnummer": 2640,
+   "Praktikstedets by": "Hedehusene"
+ },
+ {
+   "Praktiksteds navn": "Høsterkøb Skole SFO",
+   "Praktikstedets adresse": "Nedenomsvej 22",
+   "Praktikstedets postnummer": 2970,
+   "Praktikstedets by": "Hørsholm"
+ },
+ {
+   "Praktiksteds navn": "Sjælsøskolen SFO",
+   "Praktikstedets adresse": "Ravnsnæsvej 120",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "FC Østerbro Nord",
+   "Praktikstedets adresse": "Nøjsomhedsvej 10",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Fritidscenter Vanløse",
+   "Praktikstedets adresse": "Vanløsehøj 6",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Brøndby Strand SFO, Strandskolevej",
+   "Praktikstedets adresse": "Strandskolevej 300",
+   "Praktikstedets postnummer": 2660,
+   "Praktikstedets by": "Brøndby Strand"
+ },
+ {
+   "Praktiksteds navn": "KKFO Teglholmen",
+   "Praktikstedets adresse": "Støberigade 1, 1.30.B",
+   "Praktikstedets postnummer": 2450,
+   "Praktikstedets by": "København SV"
+ },
+ {
+   "Praktiksteds navn": "SFO Mosehuset, Balsmoseskolen",
+   "Praktikstedets adresse": "Æblevangen 126",
+   "Praktikstedets postnummer": 2765,
+   "Praktikstedets by": "Smørum"
+ },
+ {
+   "Praktiksteds navn": "FI Katrinedal - Katfrit",
+   "Praktikstedets adresse": "Randbølvej 27",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "Bellahøj Skole",
+   "Praktikstedets adresse": "Svenskelejren 18",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Herstedlund Skole SFO",
+   "Praktikstedets adresse": "Nyvej 7-9",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Jægersborg Fritidscenter",
+   "Praktikstedets adresse": "Ørnegårdsvej 21",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Søborg Skole",
+   "Praktikstedets adresse": "Frødings Alle 1",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "GFO Bakkegården",
+   "Praktikstedets adresse": "Nørrebakken 1",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "SFO Maglehøjskolen",
+   "Praktikstedets adresse": "Skelbækvej 8A",
+   "Praktikstedets postnummer": 3650,
+   "Praktikstedets by": "Ølstykke"
+ },
+ {
+   "Praktiksteds navn": "Ordrup Fritidscenter",
+   "Praktikstedets adresse": "Fredensvej 35",
+   "Praktikstedets postnummer": 2920,
+   "Praktikstedets by": "Charlottenlund"
+ },
+ {
+   "Praktiksteds navn": "Thomas P. Hejle ungdomshus",
+   "Praktikstedets adresse": "Nørre Voldgade 23",
+   "Praktikstedets postnummer": 1358,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "Præstemosen SFO",
+   "Praktikstedets adresse": "M Bechs alle 122",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Skt. Johannesgården",
+   "Praktikstedets adresse": "Blegdamsvej 1 B",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Herstedvester Skole SFO",
+   "Praktikstedets adresse": "Herstedvestervej 44",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinst. v/Kirbærhavens Skole (Rumraketten)",
+   "Praktikstedets adresse": "Blommestien 6 og Kirsebærhaven 8A",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Kildevældsskolens Børnehaveklasse",
+   "Praktikstedets adresse": "Bellmannsgade 5 A",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Stavnsholt skolen og FFO/Raketten",
+   "Praktikstedets adresse": "Stavnsholtvej 39",
+   "Praktikstedets postnummer": 3520,
+   "Praktikstedets by": "Farum"
+ },
+ {
+   "Praktiksteds navn": "Børnebyen Vesterbro afdeling Bryggergården",
+   "Praktikstedets adresse": "Angelgade 2",
+   "Praktikstedets postnummer": 1765,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "Fritidscenter Indre by & Christianshavn",
+   "Praktikstedets adresse": "Gammeltoftegade 19",
+   "Praktikstedets postnummer": 1355,
+   "Praktikstedets by": "København K"
+ },
+ {
+   "Praktiksteds navn": "GFO Tjørnegården",
+   "Praktikstedets adresse": "Brogårdsvej 64",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "FI ved Lykkebo Skole",
+   "Praktikstedets adresse": "Kærskiftevej 21/Gårdstedet 57",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "Langelinjeskolen, SPK",
+   "Praktikstedets adresse": "Kastelsvej 58",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Holbergskolen, bh.kl.",
+   "Praktikstedets adresse": "Frederiksborgvej 216",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "SFO Lindehøj, Lindehøjskolen",
+   "Praktikstedets adresse": "Borgerdiget 105",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Rødkilde Skole",
+   "Praktikstedets adresse": "Godthåbsvej 274",
+   "Praktikstedets postnummer": 2720,
+   "Praktikstedets by": "Vanløse"
+ },
+ {
+   "Praktiksteds navn": "SFO Gemmas Alle",
+   "Praktikstedets adresse": "Gemmas Alle 36",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Klub Ballerup Nord, Nordbuen",
+   "Praktikstedets adresse": "Agernhaven 4",
+   "Praktikstedets postnummer": 2750,
+   "Praktikstedets by": "Ballerup"
+ },
+ {
+   "Praktiksteds navn": "SFO Korsvejen",
+   "Praktikstedets adresse": "Tårnbyvej 5",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Fuglsanggårdsskolen SFO",
+   "Praktikstedets adresse": "Askevænget 10",
+   "Praktikstedets postnummer": 2830,
+   "Praktikstedets by": "Virum"
+ },
+ {
+   "Praktiksteds navn": "Enghavegård Skole SFO",
+   "Praktikstedets adresse": "Mørkhøj Park Allé 3",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Helsingør Skole SFO, afd. Gurrevej",
+   "Praktikstedets adresse": "Gefionsvej 93",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "FI Rådmand",
+   "Praktikstedets adresse": "Rådmandsgade 22",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Klub Jokeren",
+   "Praktikstedets adresse": "Vagtelvej 58",
+   "Praktikstedets postnummer": 2000,
+   "Praktikstedets by": "Frederiksberg"
+ },
+ {
+   "Praktiksteds navn": "SFO Ny Hollænder",
+   "Praktikstedets adresse": "Hortensiavej 3",
+   "Praktikstedets postnummer": 1857,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "Fritidsklubben Tempeltræet",
+   "Praktikstedets adresse": "Bülowsvej 14 A",
+   "Praktikstedets postnummer": 1870,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "SFO-Universet",
+   "Praktikstedets adresse": "Hendriksholm Boulevard 20",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "SFO Gl. Kirkevej",
+   "Praktikstedets adresse": "Gl. Kirkevej 84",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinstitutionen ved skolen på Amagerbro",
+   "Praktikstedets adresse": "Geislersgade 17",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Herlev Byskole",
+   "Praktikstedets adresse": "Engskolevej 1",
+   "Praktikstedets postnummer": 2730,
+   "Praktikstedets by": "Herlev"
+ },
+ {
+   "Praktiksteds navn": "Saxoly Fritidshjem",
+   "Praktikstedets adresse": "Saxogade 104 A",
+   "Praktikstedets postnummer": 1662,
+   "Praktikstedets by": "København V"
+ },
+ {
+   "Praktiksteds navn": "FI Heiberg",
+   "Praktikstedets adresse": "Gl. Kalkbrænderivej 4+ 11",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "TK Ungdomsgård",
+   "Praktikstedets adresse": "Tuborgvej 185",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "KKFO Uglen",
+   "Praktikstedets adresse": "Hovmestervej 19",
+   "Praktikstedets postnummer": 2400,
+   "Praktikstedets by": "København NV"
+ },
+ {
+   "Praktiksteds navn": "Distrikt Pilegårdsskolen, SFO Munkebjergvej",
+   "Praktikstedets adresse": "Munkebjergvej 123",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinstitutionen ved Sundbyøsterskole",
+   "Praktikstedets adresse": "Smyrnavej 5-7",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "GFO Hellerup (Saha)",
+   "Praktikstedets adresse": "Gammel Vartov Vej 32",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "SFO I Islev Skole",
+   "Praktikstedets adresse": "Islevbrovej 44",
+   "Praktikstedets postnummer": 2610,
+   "Praktikstedets by": "Rødovre"
+ },
+ {
+   "Praktiksteds navn": "GFO Tranegård",
+   "Praktikstedets adresse": "Lindorffs Allé 5",
+   "Praktikstedets postnummer": 2900,
+   "Praktikstedets by": "Hellerup"
+ },
+ {
+   "Praktiksteds navn": "Grønnemoseskolens SFO",
+   "Praktikstedets adresse": "Skolesvinget 10",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Glostrup Skole SFO, Vestervang",
+   "Praktikstedets adresse": "Stadionvej 81",
+   "Praktikstedets postnummer": 2600,
+   "Praktikstedets by": "Glostrup"
+ },
+ {
+   "Praktiksteds navn": "Klub Guldberg",
+   "Praktikstedets adresse": "Guldbergsgade 99",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "Torstorp Skoles SFO",
+   "Praktikstedets adresse": "Torstorpvej 1",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Stengård Skole SFO",
+   "Praktikstedets adresse": "Triumfvej 1",
+   "Praktikstedets postnummer": 2800,
+   "Praktikstedets by": "Lyngby"
+ },
+ {
+   "Praktiksteds navn": "FI Randersgade Skole",
+   "Praktikstedets adresse": "Nøjsomhedsvej 10",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "SFO Kongelundsvej",
+   "Praktikstedets adresse": "Kongelundsvej 464",
+   "Praktikstedets postnummer": 2770,
+   "Praktikstedets by": "Kastrup"
+ },
+ {
+   "Praktiksteds navn": "Sengeløse Fritidsklub",
+   "Praktikstedets adresse": "Kirkestien 2 B",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Fritids- og Ungdomsklub Impulsen",
+   "Praktikstedets adresse": "Poppel Alle 10",
+   "Praktikstedets postnummer": 2630,
+   "Praktikstedets by": "Taastrup"
+ },
+ {
+   "Praktiksteds navn": "Endrupskolens SFO I",
+   "Praktikstedets adresse": "Endrupvej 32",
+   "Praktikstedets postnummer": 3480,
+   "Praktikstedets by": "Fredensborg"
+ },
+ {
+   "Praktiksteds navn": "Birkerød Skole SFO",
+   "Praktikstedets adresse": "Birkerød Parkvej 12",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Bistrupskolen SFO",
+   "Praktikstedets adresse": "Nordvanggårdsvej 17",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "SFO Byvangskolen",
+   "Praktikstedets adresse": "Strandstræde 24",
+   "Praktikstedets postnummer": 3550,
+   "Praktikstedets by": "Slangerup"
+ },
+ {
+   "Praktiksteds navn": "Solvang FFO",
+   "Praktikstedets adresse": "Nordtoftevej 56 B",
+   "Praktikstedets postnummer": 3520,
+   "Praktikstedets by": "Farum"
+ },
+ {
+   "Praktiksteds navn": "Hillerødholmsskolens SFO",
+   "Praktikstedets adresse": "Hillerødholmsalle 2",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Brøndbyvester SFO",
+   "Praktikstedets adresse": "Tornehøj 3",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "Helsingør skole klub, afd. Abildtræet",
+   "Praktikstedets adresse": "Abildgårdsvej 45",
+   "Praktikstedets postnummer": 3000,
+   "Praktikstedets by": "Helsingør"
+ },
+ {
+   "Praktiksteds navn": "SFO Lillevangskolen, Skovvang",
+   "Praktikstedets adresse": "Poppelvej 1 A",
+   "Praktikstedets postnummer": 3450,
+   "Praktikstedets by": "Allerød"
+ },
+ {
+   "Praktiksteds navn": "Bjørnehøjskolen FO",
+   "Praktikstedets adresse": "Thorsmosevej 18",
+   "Praktikstedets postnummer": 3200,
+   "Praktikstedets by": "Helsinge"
+ },
+ {
+   "Praktiksteds navn": "Søndersøskole og FFO",
+   "Praktikstedets adresse": "Kirke Værløsevej 50",
+   "Praktikstedets postnummer": 3500,
+   "Praktikstedets by": "Værløse"
+ },
+ {
+   "Praktiksteds navn": "Toftevangskolen, SFO",
+   "Praktikstedets adresse": "Teglporten 7-9",
+   "Praktikstedets postnummer": 3460,
+   "Praktikstedets by": "Birkerød"
+ },
+ {
+   "Praktiksteds navn": "Sophienborg SFO",
+   "Praktikstedets adresse": "Sophienborg Alle 7",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "SFO Avedøre",
+   "Praktikstedets adresse": "Frydenhøjstien 2-6",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "Vadgård Skole SFO",
+   "Praktikstedets adresse": "Kong Hans Allé 45",
+   "Praktikstedets postnummer": 2860,
+   "Praktikstedets by": "Søborg"
+ },
+ {
+   "Praktiksteds navn": "Fritidsinstitutionen ved Hanssted Skole",
+   "Praktikstedets adresse": "Roedbyvej 6",
+   "Praktikstedets postnummer": 2500,
+   "Praktikstedets by": "Valby"
+ },
+ {
+   "Praktiksteds navn": "FI Guldberg",
+   "Praktikstedets adresse": "Prinsesse Charlottes Gade 12b",
+   "Praktikstedets postnummer": 2200,
+   "Praktikstedets by": "København N"
+ },
+ {
+   "Praktiksteds navn": "HFO-afdeling, Vinkelhuset",
+   "Praktikstedets adresse": "Carlsbergvej 13",
+   "Praktikstedets postnummer": 3400,
+   "Praktikstedets by": "Hillerød"
+ },
+ {
+   "Praktiksteds navn": "Vangede Fritidscenter & klub",
+   "Praktikstedets adresse": "Bomporten 1",
+   "Praktikstedets postnummer": 2820,
+   "Praktikstedets by": "Gentofte"
+ },
+ {
+   "Praktiksteds navn": "Brøndbyøster Skole SFO",
+   "Praktikstedets adresse": "Bredager 160",
+   "Praktikstedets postnummer": 2605,
+   "Praktikstedets by": "Brøndby"
+ },
+ {
+   "Praktiksteds navn": "FI Bellahøj Skole",
+   "Praktikstedets adresse": "Svenskelejren 20",
+   "Praktikstedets postnummer": 2700,
+   "Praktikstedets by": "Brønshøj"
+ },
+ {
+   "Praktiksteds navn": "Skovshoved Skole, GFO",
+   "Praktikstedets adresse": "Korsgårdsvej 3",
+   "Praktikstedets postnummer": 2920,
+   "Praktikstedets by": "Charlottenlund"
+ },
+ {
+   "Praktiksteds navn": "Amagerhylden",
+   "Praktikstedets adresse": "Sundholmsvej 2 C",
+   "Praktikstedets postnummer": 2300,
+   "Praktikstedets by": "København S"
+ },
+ {
+   "Praktiksteds navn": "Skolen på Grundtvigsvej",
+   "Praktikstedets adresse": "Grundtvigsvej 11",
+   "Praktikstedets postnummer": 1864,
+   "Praktikstedets by": "Frederiksberg C"
+ },
+ {
+   "Praktiksteds navn": "FI Strandvejsskolen",
+   "Praktikstedets adresse": "Carl Nielsens Allé 8",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Dragør Skole SFO",
+   "Praktikstedets adresse": "Engvej 1",
+   "Praktikstedets postnummer": 2791,
+   "Praktikstedets by": "Dragør"
+ },
+ {
+   "Praktiksteds navn": "Pumpestationen Fritidscenter",
+   "Praktikstedets adresse": "Præstøgade 21",
+   "Praktikstedets postnummer": 2100,
+   "Praktikstedets by": "København Ø"
+ },
+ {
+   "Praktiksteds navn": "Ganløse Fritids- & Ungdomsklub",
+   "Praktikstedets adresse": "Strædet 1",
+   "Praktikstedets postnummer": 3660,
+   "Praktikstedets by": "Stenløse"
+ },
+ {
+   "Praktiksteds navn": "Bagsværd Skole SFO",
+   "Praktikstedets adresse": "Bagsværd Hovedgade 62",
+   "Praktikstedets postnummer": 2880,
+   "Praktikstedets by": "Bagsværd"
+ },
+ {
+   "Praktiksteds navn": "SFO Gungehusskolen",
+   "Praktikstedets adresse": "Høvedstensvej 35",
+   "Praktikstedets postnummer": 2650,
+   "Praktikstedets by": "Hvidovre"
+ },
+ {
+   "Praktiksteds navn": "SFO Egholmskolen",
+   "Praktikstedets adresse": "Egholmvej 19",
+   "Praktikstedets postnummer": 2665,
+   "Praktikstedets by": "Vallensbæk Strand"
+ },
+ {
+   "Praktiksteds navn": "Herstedøster Skole SFO",
+   "Praktikstedets adresse": "Trippendalsvej 2",
+   "Praktikstedets postnummer": 2620,
+   "Praktikstedets by": "Albertslund"
+ }
+]
