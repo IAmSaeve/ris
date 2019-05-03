@@ -4,7 +4,9 @@
     <!-- TODO: Maybe this should be in a component? -->
     <section class="Selector"></section>
     <ul>
-      <li v-for="place in result" :key="place['Praktikstedets adresse']" :v-if="result !== null">{{place['Praktikstedets adresse']}}</li>
+      <li v-for="(place, index) in result" :key="index">
+        {{ place["Praktikstedets adresse"] }}
+      </li>
     </ul>
   </div>
 </template>
