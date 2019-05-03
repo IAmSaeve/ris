@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <!-- TODO: Complete sections -->
     <section class="information">
       <p>This sections should hold general information</p>
     </section>
@@ -7,7 +8,10 @@
       <p>This sections should show top rated places</p>
     </section>
     <section class="bottom">
-      <p>This sections should display some company information and maybe social information</p>
+      <p>
+        This sections should display some company information and maybe social
+        information
+      </p>
     </section>
   </div>
 </template>

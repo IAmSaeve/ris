@@ -14,6 +14,9 @@
     <div class="navbar-nav collapse navbar-collapse">
       <router-link class="nav-link nav-item" to="/">Home</router-link>
       <router-link class="nav-link nav-item" to="/about">About</router-link>
+      <router-link class="nav-link nav-item" to="/institutions"
+        >Institutions</router-link
+      >
     </div>
   </nav>
 </template>

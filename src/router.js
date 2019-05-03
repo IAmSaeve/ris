@@ -19,6 +19,12 @@ export default new Router({
       component: () => import("./views/About.vue")
     },
     {
+      path: "/institutions",
+      name: "institutions",
+      // Lazy-load when the route is visited.
+      component: () => import("./views/Institutions.vue")
+    },
+    {
       path: "/404",
       name: "404",
       component: () => import("./views/NotFoundComponent.vue")
