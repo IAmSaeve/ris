@@ -22,6 +22,8 @@ export default {
     Header: Header
   },
   created() {
+    // Loads data from firebase.
+    // This is needed because I can't send search queries...
     this.$store.dispatch("getD2PData");
     this.$store.dispatch("getSF2PData");
     this.$store.dispatch("getSS2PData");
