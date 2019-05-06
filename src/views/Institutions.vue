@@ -1,7 +1,11 @@
 <template>
   <div>
     <section class="Search">
-      <select v-model="selectedCategory" @change="selectInstitutionData" name="select-category">
+      <select
+        v-model="selectedCategory"
+        @change="selectInstitutionData"
+        name="select-category"
+      >
         <option value="Dagtilbud2Praktik">Dagtilbud 2. praktik</option>
         <option value="Skolefritid2Praktik">Skole fritid 2. praktik</option>
         <option value="SocialSpecial2Praktik">Social special 2. praktik</option>
@@ -15,14 +19,18 @@
         placeholder="Search..."
         v-model="searchQuery"
         v-on:input="search"
-      >
+      />
     </section>
     <section class="Selector"></section>
     <ul v-if="searchQuery === ''">
-      <li v-for="(place, index) in result" :key="index">{{ place["Praktikstedets adresse"] }}</li>
+      <li v-for="(place, index) in result" :key="index">
+        {{ place["Praktikstedets adresse"] }}
+      </li>
     </ul>
     <ul v-else>
-      <li v-for="(place, index) in filteredArray" :key="index">{{ place["Praktikstedets adresse"] }}</li>
+      <li v-for="(place, index) in result" :key="index">
+        {{ place["Praktikstedets adresse"] }}
+      </li>
     </ul>
   </div>
 </template>
@@ -33,14 +41,13 @@ export default {
     return {
       selectedCategory: "",
       searchQuery: "",
-      filteredArray: [],
       result: []
     };
   },
   methods: {
     search() {
       // TODO: Search can be made dynamic so that you can query for more then just the address.
-      this.filteredArray = this.result.filter(term => {
+      this.result = this.$store.state[this.selectedCategory].filter(term => {
         return term["Praktikstedets adresse"]
           .toLowerCase()
           .includes(this.searchQuery.toLowerCase());
