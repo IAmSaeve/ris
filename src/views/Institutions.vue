@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="Search">
-      <select v-model="selectedCategory" @change="getInstitutionData" name="select-category">
+      <select v-model="selectedCategory" @change="selectInstitutionData" name="select-category">
         <option value="Dagtilbud2Praktik">Dagtilbud 2. praktik</option>
         <option value="Skolefritid2Praktik">Skole fritid 2. praktik</option>
         <option value="SocialSpecial2Praktik">Social special 2. praktik</option>
@@ -45,6 +45,11 @@ export default {
           .toLowerCase()
           .includes(this.searchQuery.toLowerCase());
       });
+    },
+    selectInstitutionData() {
+      if (this.selectedCategory !== "") {
+        this.result = this.$store.state[this.selectedCategory];
+      }
     }
   }
 };
