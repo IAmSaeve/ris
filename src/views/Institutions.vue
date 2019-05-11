@@ -124,14 +124,7 @@ export default {
     return {
       selectedCategory: "",
       searchQuery: "",
-      result: [],
-      allData: this.$store.state.Dagtilbud2Praktik.concat(
-        this.$store.state.Skolefritid2Praktik,
-        this.$store.state.SocialSpecial2Praktik,
-        this.$store.state.Dagtilbud3Praktik,
-        this.$store.state.Skolefritid3Praktik,
-        this.$store.state.SocialSpecial3Praktik
-      )
+      result: []
     };
   },
   methods: {
@@ -140,7 +133,7 @@ export default {
         this.result = this.$store.state[this.selectedCategory];
       } else {
         this.selectedCategory = "";
-        let fuse = new Fuse(this.allData, options);
+        let fuse = new Fuse(this.$store.getters.mergedData, options);
         this.result = fuse.search(this.searchQuery);
       }
     },

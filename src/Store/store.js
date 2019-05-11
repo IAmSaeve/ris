@@ -16,5 +16,17 @@ export default new Vuex.Store({
     SocialSpecial3Praktik: []
   },
   mutations,
-  actions
+  actions,
+  getters: {
+    mergedData: state => {
+      // Returns a merged array for full search
+      return state.Dagtilbud2Praktik.concat(
+        state.Skolefritid2Praktik,
+        state.SocialSpecial2Praktik,
+        state.Dagtilbud3Praktik,
+        state.Skolefritid3Praktik,
+        state.SocialSpecial3Praktik
+      );
+    }
+  }
 });
