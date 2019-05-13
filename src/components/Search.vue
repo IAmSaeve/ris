@@ -39,6 +39,7 @@ export default {
   props: ["selectedCategory"],
   methods: {
     search() {
+      // TODO: There should be a limiter on this
       let fuse = new Fuse(this.$store.getters.mergedData, options);
       this.$emit("emitSearchObject", {
         query: this.query,
