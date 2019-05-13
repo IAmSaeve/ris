@@ -40,12 +40,14 @@ export default {
   methods: {
     search() {
       this.$emit("emitSearchQuery", this.query);
-      if (this.searchQuery === "" && this.selectedCategory !== "") {
+      this.$emit("emitSelectedCategory", "");
+
+      let fuse = new Fuse(this.$store.getters.mergedData, options);
+      this.$emit("emitSearchResult", fuse.search(this.query));
+    },
+    clearSearchField() {
+      if (this.query !== "" && this.selectedCategory !== "") {
         this.query = "";
-      } else {
-        this.$emit("emitSelectedCategory", "");
-        let fuse = new Fuse(this.$store.getters.mergedData, options);
-        this.$emit("emitSearchResult", fuse.search(this.query));
       }
     }
   }

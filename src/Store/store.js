@@ -1,8 +1,8 @@
 import Vue from "vue";
 import Vuex from "vuex";
 
-import actions from "./actions";
-import mutations from "./mutations";
+import actions from "@/Store/actions";
+import mutations from "@/Store/mutations";
 
 Vue.use(Vuex);
 

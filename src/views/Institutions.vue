@@ -110,6 +110,7 @@ export default {
   },
   methods: {
     selectInstitutionData() {
+      this.$children[0].query = "";
       this.searchQuery = "";
       if (this.selectedCategory !== "" && this.searchQuery === "") {
         this.result = this.$store.state[this.selectedCategory];
