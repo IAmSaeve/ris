@@ -10,7 +10,7 @@
               name="select-category"
               class="browser-default custom-select m-3"
             >
-              <option value="">Vælg speciale og praktik</option>
+              <option value>Vælg speciale og praktik</option>
               <option value="Dagtilbud2Praktik">Dagtilbud 2. praktik</option>
               <option value="Skolefritid2Praktik"
                 >Skole fritid 2. praktik</option
@@ -26,15 +26,12 @@
                 >Social special 3. praktik</option
               >
             </select>
-            <input
-              type="search"
-              name="search-place"
-              placeholder="Søg... (alle steder)"
-              v-model="searchQuery"
-              v-on:input="search"
-              class="form-control m-3"
-              aria-label="Search"
-            />
+            <app-search-component
+              :selectedCategory="selectedCategory"
+              @emitSearchResult="result = $event"
+              @emitSearchQuery="searchQuery = $event"
+              @emitSelectedCategory="selectedCategory = $event"
+            ></app-search-component>
           </div>
         </div>
       </div>
@@ -99,25 +96,9 @@
 </template>
 
 <script>
-var _ = require("lodash");
-var Fuse = require("fuse.js");
+import appSearchComponent from "@/components/Search.vue";
 
-// See https://fusejs.io/ for config
-var options = {
-  shouldSort: true,
-  findAllMatches: true,
-  threshold: 0.3,
-  location: 0,
-  distance: 100,
-  maxPatternLength: 16,
-  minMatchCharLength: 3,
-  keys: [
-    "Praktiksteds navn",
-    "Praktikstedets adresse",
-    "Praktikstedets postnummer",
-    "Praktikstedets by"
-  ]
-};
+var _ = require("lodash");
 
 export default {
   data() {
@@ -128,15 +109,6 @@ export default {
     };
   },
   methods: {
-    search() {
-      if (this.searchQuery === "" && this.selectedCategory !== "") {
-        this.result = this.$store.state[this.selectedCategory];
-      } else {
-        this.selectedCategory = "";
-        let fuse = new Fuse(this.$store.getters.mergedData, options);
-        this.result = fuse.search(this.searchQuery);
-      }
-    },
     selectInstitutionData() {
       this.searchQuery = "";
       if (this.selectedCategory !== "" && this.searchQuery === "") {
@@ -150,6 +122,9 @@ export default {
     grpResult() {
       return _.chunk(this.result, 3);
     }
+  },
+  components: {
+    appSearchComponent
   }
 };
 </script>
