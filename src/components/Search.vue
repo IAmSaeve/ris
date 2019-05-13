@@ -39,16 +39,12 @@ export default {
   props: ["selectedCategory"],
   methods: {
     search() {
-      this.$emit("emitSearchQuery", this.query);
-      this.$emit("emitSelectedCategory", "");
-
       let fuse = new Fuse(this.$store.getters.mergedData, options);
-      this.$emit("emitSearchResult", fuse.search(this.query));
-    },
-    clearSearchField() {
-      if (this.query !== "" && this.selectedCategory !== "") {
-        this.query = "";
-      }
+      this.$emit("emitSearchObject", {
+        query: this.query,
+        category: "",
+        result: fuse.search(this.query)
+      });
     }
   }
 };

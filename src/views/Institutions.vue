@@ -28,9 +28,11 @@
             </select>
             <app-search-component
               :selectedCategory="selectedCategory"
-              @emitSearchResult="result = $event"
-              @emitSearchQuery="searchQuery = $event"
-              @emitSelectedCategory="selectedCategory = $event"
+              @emitSearchObject="
+                selectedCategory = $event.category;
+                searchQuery = $event.query;
+                result = $event.result;
+              "
             ></app-search-component>
           </div>
         </div>
