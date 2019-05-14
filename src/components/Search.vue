@@ -36,6 +36,7 @@ export default {
       query: ""
     };
   },
+  // Props is unused but left here to remind me how to use props
   props: ["selectedCategory"],
   methods: {
     search() {

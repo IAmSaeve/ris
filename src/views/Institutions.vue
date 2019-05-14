@@ -103,6 +103,7 @@ import appSearchComponent from "@/components/Search.vue";
 var _ = require("lodash");
 
 export default {
+  name: "Institutions",
   data() {
     return {
       selectedCategory: "",
@@ -112,8 +113,11 @@ export default {
   },
   methods: {
     selectInstitutionData() {
+      // Clear input box in child component
+      // I don't really liek this :(
       this.$children[0].query = "";
       this.searchQuery = "";
+
       if (this.selectedCategory !== "" && this.searchQuery === "") {
         this.result = this.$store.state[this.selectedCategory];
       } else {
