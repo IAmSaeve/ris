@@ -114,7 +114,7 @@ export default {
   methods: {
     selectInstitutionData() {
       // Clear input box in child component
-      // I don't really liek this :(
+      // I don't really like this :(
       this.$children[0].query = "";
       this.searchQuery = "";
 
