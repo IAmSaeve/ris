@@ -100,7 +100,7 @@
 <script>
 import appSearchComponent from "@/components/Search.vue";
 
-var _ = require("lodash");
+import chunk from "lodash/chunk";
 
 export default {
   name: "Institutions",
@@ -127,7 +127,9 @@ export default {
   },
   computed: {
     grpResult() {
-      return _.chunk(this.result, 3);
+      // Divide array data into small, 3 size, arrays.
+      // This is for processing the data with ease.
+      return chunk(this.result, 3);
     }
   },
   components: {
