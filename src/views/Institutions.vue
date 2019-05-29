@@ -98,7 +98,7 @@
 </template>
 
 <script>
-import appSearchComponent from "@/components/Search.vue";
+import appSearchComponent from "@/components/InstitutionsSearch.vue";
 
 import chunk from "lodash/chunk";
 
