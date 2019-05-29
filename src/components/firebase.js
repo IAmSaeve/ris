@@ -1,6 +1,5 @@
-// import firebase from "firebase";
-const firebase = require("firebase/app");
-require("firebase/database");
+import firebase from "firebase/app";
+import "firebase/database";
 
 // Initialize Firebase
 var config = {
