@@ -11,6 +11,8 @@
 </template>
 
 <script>
+import { eventBus } from "@/main.js";
+
 import Fuse from "fuse.js";
 
 // See https://fusejs.io/ for config
@@ -41,7 +43,7 @@ export default {
       // TODO: There should be a dynamic limiter on this
       // ATM it's fixed to 12 results
       let fuse = new Fuse(this.$store.getters.mergedData, options);
-      this.$emit("emitSearchObject", {
+      eventBus.$emit("emitSearchObject", {
         query: this.query,
         category: "",
         result: fuse.search(this.query).slice(0, 12)
