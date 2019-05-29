@@ -3,7 +3,7 @@
 import db from "@/components/firebase.js";
 
 // TODO: Handle error and infor user.
-// TODO: Maye commit more information to inform users that the data is being downloaded.
+// TODO: Maybe commit more information to inform users that the data is being downloaded.
 
 const getD2PData = ({ commit }) => {
   let collection = [];
