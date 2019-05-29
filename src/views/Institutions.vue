@@ -46,7 +46,7 @@
           :key="grpIndex"
         >
           <div
-            class="d-flex flex-column col-lg-4 col-md-12 mb-4 align-items-stretch"
+            class="col-lg-4 col-md-12 mb-4 align-items-stretch"
             v-for="(place, index) in places"
             :key="index"
           >
