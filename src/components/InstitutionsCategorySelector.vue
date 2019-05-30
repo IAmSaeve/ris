@@ -21,29 +21,27 @@ import { eventBus } from "@/main.js";
 export default {
   data() {
     return {
-      selectedCategory: "",
-      searchQuery: "",
-      result: []
+      selectedCategory: ""
     };
   },
   methods: {
     selectInstitutionData() {
-      // Clear input box in child component
-      // I don't really like this :(
-      //   this.$children[0].query = "";
-      this.searchQuery = "";
-
-      if (this.selectedCategory !== "" && this.searchQuery === "") {
+      if (this.selectedCategory !== "") {
         eventBus.$emit(
-          "emitCategoryObject",
+          "emitCategory",
           this.$store.state[this.selectedCategory]
         );
       } else {
-        eventBus.$emit("emitCategoryObject", []);
+        eventBus.$emit("emitCategory", []);
       }
     }
+  },
+  created() {
+    eventBus.$on("emitSearchObject", event => {
+      if (event.searchQuery !== "") {
+        this.selectedCategory = "";
+      }
+    });
   }
 };
 </script>
-
-<style></style>

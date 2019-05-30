@@ -3,7 +3,7 @@
     type="search"
     name="search-place"
     placeholder="Søg... (alle steder)"
-    v-model="query"
+    v-model="searchQuery"
     v-on:input="search"
     class="form-control m-3"
     aria-label="Search"
@@ -35,7 +35,7 @@ var options = {
 export default {
   data() {
     return {
-      query: ""
+      searchQuery: ""
     };
   },
   methods: {
@@ -44,11 +44,17 @@ export default {
       // ATM it's fixed to 12 results
       let fuse = new Fuse(this.$store.getters.mergedData, options);
       eventBus.$emit("emitSearchObject", {
-        query: this.query,
-        category: "",
-        result: fuse.search(this.query).slice(0, 12)
+        searchQuery: this.searchQuery,
+        result: fuse.search(this.searchQuery).slice(0, 12)
       });
     }
+  },
+  created() {
+    eventBus.$on("emitCategory", event => {
+      if (event !== []) {
+        this.searchQuery = "";
+      }
+    });
   }
 };
 </script>
