@@ -6,19 +6,21 @@
       </b-button>
 
       <div class="navbar-nav collapse navbar-collapse">
-        <router-link class="nav-link nav-item" to="/">Home</router-link>
-        <router-link class="nav-link nav-item" to="/about">About</router-link>
+        <router-link class="nav-link nav-item" to="/">Hjem</router-link>
+        <router-link class="nav-link nav-item" to="/about"
+          >Omkring os</router-link
+        >
         <router-link class="nav-link nav-item" to="/institutions"
-          >Institutions</router-link
+          >Institutioner</router-link
         >
       </div>
     </nav>
     <b-collapse id="collapse-2">
       <div class="card-group" id="mobileNav">
-        <router-link class="ml-3 mt-2" to="/">Home</router-link>
-        <router-link class="ml-3 mt-2" to="/about">About</router-link>
+        <router-link class="ml-3 mt-2" to="/">Hjem</router-link>
+        <router-link class="ml-3 mt-2" to="/about">Omkring os</router-link>
         <router-link class="ml-3 mt-2 mb-3" to="/institutions"
-          >Institutions</router-link
+          >Institutioner</router-link
         >
       </div>
     </b-collapse>
