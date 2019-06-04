@@ -26,7 +26,7 @@
             v-for="(place, index) in places"
             :key="index"
           >
-            <div class="card m-3" id="card">
+            <div class="card m-3" id="card" @click="openInstitution(place)">
               <div class="card-body">
                 <h6>{{ place["Praktiksteds navn"] }}</h6>
                 <p class="mb-0">{{ place["Praktikstedets adresse"] }}</p>
@@ -61,6 +61,14 @@ export default {
     return {
       result: []
     };
+  },
+  methods: {
+    openInstitution(place) {
+      this.$router.push({
+        name: "institution",
+        params: { name: place["Praktiksteds navn"], place: place }
+      });
+    }
   },
   computed: {
     grpResult() {
