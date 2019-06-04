@@ -34,15 +34,16 @@ import L from "leaflet";
 export default {
   props: ["place"],
   mounted() {
-    this.getCoordinates();
+    this.renderMap();
   },
   methods: {
-    async getCoordinates() {
+    async renderMap() {
       // This tries to correct address errors when searching
       // TODO: Find better API to search for lon and lat
       let s = this.place["Praktikstedets adresse"];
       let n = s.indexOf(",");
       s = s.substring(0, n != -1 ? n : s.length);
+      let zoom = 15;
 
       var result = await fetch(
         `https://nominatim.openstreetmap.org/search?q=${s}&format=json`
@@ -59,21 +60,33 @@ export default {
           console.error(`Caught error:\n${e}}`)
         );
 
-      // Initialize the map and assign it to a variable for later use
-      var map = L.map("map", {
-        // Set latitude and longitude of the map center (required)
-        center: [result.lat, result.lon],
-        // Set the initial zoom level, values 0-18, where 0 is most zoomed-out (required)
-        zoom: 15
-      });
-      L.control.scale().addTo(map);
-      L.marker([result.lat, result.lon]).addTo(map);
+      if (result === undefined) {
+        result = { lat: "56.2128586", lon: "9.3004301" };
+        zoom = 6;
 
-      // Create a Tile Layer and add it to the map
-      L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        attribution:
-          '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-      }).addTo(map);
+        let map = L.map("map", {
+          center: [result.lat, result.lon],
+          zoom: zoom
+        });
+        L.control.scale().addTo(map);
+
+        L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          attribution:
+            '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+      } else {
+        let map = L.map("map", {
+          center: [result.lat, result.lon],
+          zoom: zoom
+        });
+        L.control.scale().addTo(map);
+        L.marker([result.lat, result.lon]).addTo(map);
+
+        L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          attribution:
+            '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+      }
     }
   }
 };
