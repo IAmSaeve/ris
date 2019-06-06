@@ -45,13 +45,14 @@ export default {
   },
   created() {
     // Loads data from firebase.
-    // This is needed because I can't send search queries...
-    this.$store.dispatch("getD2PData");
-    this.$store.dispatch("getSF2PData");
-    this.$store.dispatch("getSS2PData");
-    this.$store.dispatch("getD3PData");
-    this.$store.dispatch("getSF3PData");
-    this.$store.dispatch("getSS3PData");
+    // FIXME: Re-enable these when done testing!
+    // this.$store.dispatch("getD2PData");
+    // this.$store.dispatch("getSF2PData");
+    // this.$store.dispatch("getSS2PData");
+    // this.$store.dispatch("getD3PData");
+    // this.$store.dispatch("getSF3PData");
+    // this.$store.dispatch("getSS3PData");
+    // this.$store.dispatch("getRatingData");
   }
 };
 </script>

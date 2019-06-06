@@ -10,7 +10,9 @@ const getD2PData = ({ commit }) => {
   db.collection("Dagtilbud2Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_D2P_DATA", collection);
     });
 };
@@ -20,7 +22,9 @@ const getSF2PData = ({ commit }) => {
   db.collection("Skolefritid2Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_SF2P_DATA", collection);
     });
 };
@@ -30,7 +34,9 @@ const getSS2PData = ({ commit }) => {
   db.collection("SocialSpecial2Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_SS2P_DATA", collection);
     });
 };
@@ -40,7 +46,9 @@ const getD3PData = ({ commit }) => {
   db.collection("Dagtilbud3Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_D3P_DATA", collection);
     });
 };
@@ -50,7 +58,9 @@ const getSF3PData = ({ commit }) => {
   db.collection("Skolefritid3Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_SF3P_DATA", collection);
     });
 };
@@ -60,7 +70,9 @@ const getSS3PData = ({ commit }) => {
   db.collection("SocialSpecial3Praktik")
     .get()
     .then(querySnapshot => {
-      collection = querySnapshot.docs;
+      querySnapshot.forEach(doc => {
+        collection.push(doc.data());
+      });
       commit("GET_SS3P_DATA", collection);
     });
 };

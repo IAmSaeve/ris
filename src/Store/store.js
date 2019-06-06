@@ -4,6 +4,8 @@ import Vuex from "vuex";
 import actions from "@/Store/actions";
 import mutations from "@/Store/mutations";
 
+import rating from "@/Store/Modules/Rating/rating";
+
 Vue.use(Vuex);
 
 export default new Vuex.Store({
@@ -28,5 +30,8 @@ export default new Vuex.Store({
         state.SocialSpecial3Praktik
       );
     }
+  },
+  modules: {
+    rating
   }
 });
