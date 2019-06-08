@@ -19,9 +19,15 @@
           </p>
         </div>
       </div>
-      <div class="row">
+      <div class="row mb-5">
         <div class="col">
           <!-- Ratng goes here -->
+          <star-rating
+            v-model="rating"
+            :increment="0.01"
+            :fixed-points="2"
+            :star-size="30"
+          ></star-rating>
         </div>
       </div>
       <div class="row">
