@@ -20,6 +20,11 @@
         </div>
       </div>
       <div class="row">
+        <div class="col">
+          <!-- Ratng goes here -->
+        </div>
+      </div>
+      <div class="row">
         <div class="col d-flex justify-content-center">
           <app-map-component :place="place"></app-map-component>
         </div>
@@ -35,7 +40,7 @@ export default {
   data() {
     return {
       palce: null,
-      rating: []
+      rating: 0
     };
   },
   props: ["placeId"],
@@ -46,10 +51,11 @@ export default {
     this.place = this.$store.getters.mergedData.find(
       p => p.Id === this.placeId
     );
-    this.rating = this.$store.dispatch("getRatingData", {
+    this.$store.dispatch("getRatingData", {
       placeId: this.placeId,
       CollectionName: this.place.CollectionName
     });
+    this.rating = this.$store.getters.getAvarageRating;
   }
 };
 </script>
