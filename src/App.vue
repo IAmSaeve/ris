@@ -46,13 +46,12 @@ export default {
   created() {
     // Loads data from firebase.
     // FIXME: Re-enable these when done testing!
-    // this.$store.dispatch("getD2PData");
+    this.$store.dispatch("getD2PData");
     // this.$store.dispatch("getSF2PData");
     // this.$store.dispatch("getSS2PData");
     // this.$store.dispatch("getD3PData");
     // this.$store.dispatch("getSF3PData");
     // this.$store.dispatch("getSS3PData");
-    // this.$store.dispatch("getRatingData");
   }
 };
 </script>

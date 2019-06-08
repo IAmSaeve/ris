@@ -2,12 +2,11 @@
 
 import db from "@/components/firebase.js";
 
-const getRatingData = ({ commit }) => {
+const getRatingData = ({ commit }, payload) => {
   let collection = [];
-
   const categoryDocRef = db
-    .collection("Dagtilbud2Praktik")
-    .doc("02fwREcUA59ClAFIDqks");
+    .collection(payload.CollectionName)
+    .doc(payload.placeId);
 
   db.collection("Rating")
     .where("Place", "==", categoryDocRef)

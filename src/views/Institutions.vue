@@ -66,7 +66,7 @@ export default {
     openInstitution(place) {
       this.$router.push({
         name: "institution",
-        params: { name: place["Praktiksteds navn"], place: place }
+        params: { name: place["Praktiksteds navn"], placeId: place.Id }
       });
     }
   },

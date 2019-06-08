@@ -32,9 +32,24 @@
 import appMapComponent from "@/components/InstitutionMap.vue";
 
 export default {
-  props: ["place"],
+  data() {
+    return {
+      palce: null,
+      rating: []
+    };
+  },
+  props: ["placeId"],
   components: {
     appMapComponent
+  },
+  created() {
+    this.place = this.$store.getters.mergedData.find(
+      p => p.Id === this.placeId
+    );
+    this.rating = this.$store.dispatch("getRatingData", {
+      placeId: this.placeId,
+      CollectionName: this.place.CollectionName
+    });
   }
 };
 </script>

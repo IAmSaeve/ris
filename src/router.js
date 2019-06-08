@@ -29,7 +29,7 @@ export default new Router({
       name: "institution",
       props: true,
       beforeEnter(to, from, next) {
-        if (to.params.place) {
+        if (to.params.placeId) {
           next();
         } else {
           next({ name: "home" });

@@ -8,10 +8,15 @@ import db from "@/components/firebase.js";
 const getD2PData = ({ commit }) => {
   let collection = [];
   db.collection("Dagtilbud2Praktik")
+    .limit(5)
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "Dagtilbud2Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_D2P_DATA", collection);
     });
@@ -23,7 +28,11 @@ const getSF2PData = ({ commit }) => {
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "Dagtilbud2Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_SF2P_DATA", collection);
     });
@@ -35,7 +44,11 @@ const getSS2PData = ({ commit }) => {
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "SocialSpecial2Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_SS2P_DATA", collection);
     });
@@ -47,7 +60,11 @@ const getD3PData = ({ commit }) => {
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "Dagtilbud3Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_D3P_DATA", collection);
     });
@@ -59,7 +76,11 @@ const getSF3PData = ({ commit }) => {
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "Skolefritid3Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_SF3P_DATA", collection);
     });
@@ -71,7 +92,11 @@ const getSS3PData = ({ commit }) => {
     .get()
     .then(querySnapshot => {
       querySnapshot.forEach(doc => {
-        collection.push(doc.data());
+        collection.push({
+          Id: doc.id,
+          CollectionName: "SocialSpecial3Praktik",
+          ...doc.data().element
+        });
       });
       commit("GET_SS3P_DATA", collection);
     });
