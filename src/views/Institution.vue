@@ -24,8 +24,8 @@
           <!-- This sends soooo many events, god help me!
           FIXME: Should really be optimized! -->
           <star-rating
-            v-model="rating"
-            :increment="0.01"
+            v-model="RatingHeler"
+            :increment="0.5"
             :fixed-points="2"
             :star-size="30"
           ></star-rating>
@@ -46,8 +46,7 @@ import appMapComponent from "@/components/InstitutionMap.vue";
 export default {
   data() {
     return {
-      palce: null,
-      rating: 0
+      palce: null
     };
   },
   props: ["placeId"],
@@ -62,7 +61,25 @@ export default {
       placeId: this.placeId,
       CollectionName: this.place.CollectionName
     });
-    this.rating = this.$store.getters.getAvarageRating;
+  },
+  computed: {
+    RatingHeler: {
+      get: function() {
+        return this.$store.getters.getAvarageRating;
+      },
+      set: function(rating) {
+        this.$store.dispatch("postRatingData", {
+          placeId: this.placeId,
+          CollectionName: this.place.CollectionName,
+          rating: rating
+        });
+      }
+    }
+  },
+  destroyed() {
+    // TODO: Should be done via mutations for state tracking
+    this.$store.state.rating.Ratings = [];
+    this.$store.getters.getAvarageRating;
   }
 };
 </script>

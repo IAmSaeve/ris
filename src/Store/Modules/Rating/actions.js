@@ -22,6 +22,19 @@ const getRatingData = ({ commit }, payload) => {
     });
 };
 
+const postRatingData = (context, payload) => {
+  // TODO: Implement
+  db.collection("Rating")
+    .add({
+      Place: db.doc(`/${payload.CollectionName}/${payload.placeId}`),
+      Rating: payload.rating
+    })
+    .then(ref => {
+      console.log("Added document with ID: ", ref.id);
+    });
+};
+
 export default {
-  getRatingData
+  getRatingData,
+  postRatingData
 };
