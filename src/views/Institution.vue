@@ -21,7 +21,8 @@
       </div>
       <div class="row mb-5">
         <div class="col">
-          <!-- Ratng goes here -->
+          <!-- This sends soooo many events, god help me!
+          FIXME: Should really be optimized! -->
           <star-rating
             v-model="rating"
             :increment="0.01"
