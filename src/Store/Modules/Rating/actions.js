@@ -23,7 +23,6 @@ const getRatingData = ({ commit }, payload) => {
 };
 
 const postRatingData = (context, payload) => {
-  // TODO: Implement
   db.collection("Rating")
     .add({
       Place: db.doc(`/${payload.CollectionName}/${payload.placeId}`),

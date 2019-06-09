@@ -8,6 +8,7 @@ import rating from "@/Store/Modules/Rating/rating";
 
 Vue.use(Vuex);
 
+// TODO: Could be refactored to another module
 export default new Vuex.Store({
   state: {
     Dagtilbud2Praktik: [],

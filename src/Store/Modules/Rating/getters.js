@@ -1,4 +1,3 @@
-// TODO: Make this useful
 const getAvarageRating = state => {
   let avarage = 0;
   state.Ratings.forEach(rating => {
