@@ -76,10 +76,8 @@ export default {
       }
     }
   },
-  destroyed() {
-    // TODO: Should be done via mutations for state tracking
-    this.$store.state.rating.Ratings = [];
-    this.$store.getters.getAvarageRating;
+  beforeDestroy() {
+    this.$store.dispatch("clearRatingData");
   }
 };
 </script>

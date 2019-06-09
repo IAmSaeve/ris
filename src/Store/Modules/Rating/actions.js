@@ -34,7 +34,12 @@ const postRatingData = (context, payload) => {
     });
 };
 
+const clearRatingData = context => {
+  context.commit("CLEAR_RATING_DATA");
+};
+
 export default {
   getRatingData,
-  postRatingData
+  postRatingData,
+  clearRatingData
 };
