@@ -46,7 +46,7 @@ import appMapComponent from "@/components/InstitutionMap.vue";
 export default {
   data() {
     return {
-      palce: null
+      place: null
     };
   },
   props: ["placeId"],
