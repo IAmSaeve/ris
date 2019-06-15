@@ -1,17 +1,15 @@
 <template>
   <div id="page-wrapper">
-    <!-- Two -->
     <section id="two" class="wrapper alt style2">
       <section class="spotlight">
         <div class="image"><img src="../assets/pic01.jpg" alt="" /></div>
         <div class="content">
           <h2>
-            Magna primis lobortis<br />
-            sed ullamcorper
+            LOREM IPSUM
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua
           </p>
         </div>
       </section>
@@ -19,12 +17,11 @@
         <div class="image"><img src="../assets/pic02.jpg" alt="" /></div>
         <div class="content">
           <h2>
-            Tortor dolore feugiat<br />
-            elementum magna
+            LOREM IPSUM
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua
           </p>
         </div>
       </section>
@@ -32,18 +29,16 @@
         <div class="image"><img src="../assets/pic03.jpg" alt="" /></div>
         <div class="content">
           <h2>
-            Augue eleifend aliquet<br />
-            sed condimentum
+            LOREM IPSUM
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua
           </p>
         </div>
       </section>
     </section>
 
-    <!-- Footer -->
     <footer id="footer">
       <ul class="icons">
         <li>
