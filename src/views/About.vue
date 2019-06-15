@@ -11,17 +11,17 @@
           </div>
           <section>
             <div>
-            <p>
-              Rate your internship, eller bare RIS, er udviklet til danske
-              pædagoger. Projectet er blevet udviklet med henblik på at løse det
-              voksende problem, at flere og flere praktiksteder ikke lever op
-              til de danske standarder og værdier.
-            </p>
-            <p>
-              RIS giver de studerende en mulighed for at komme med en rating på
-              stedet de har været i praktik. På den måde kan de hjælpe andre
-              studerende med at finde det bedste sted.
-            </p>
+              <p>
+                Rate your internship, eller bare RIS, er udviklet til danske
+                pædagoger. Projectet er blevet udviklet med henblik på at løse
+                det voksende problem, at flere og flere praktiksteder ikke lever
+                op til de danske standarder og værdier.
+              </p>
+              <p>
+                RIS giver de studerende en mulighed for at komme med en rating
+                på stedet de har været i praktik. På den måde kan de hjælpe
+                andre studerende med at finde det bedste sted.
+              </p>
             </div>
           </section>
         </article>
