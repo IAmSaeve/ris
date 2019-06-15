@@ -5,11 +5,16 @@
         <div class="image"><img src="../assets/pic01.jpg" alt="" /></div>
         <div class="content">
           <h2>
-            LOREM IPSUM
+            Praktikpladser i alt
           </h2>
           <p>
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua
+            Der er i dag registreret
+            <u
+              ><strong style="font-size: 1.3rem;">{{
+                this.$store.getters.mergedData.length
+              }}</strong></u
+            >
+            praktikpladser i region syd danmark.
           </p>
         </div>
       </section>
