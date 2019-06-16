@@ -9,12 +9,16 @@
           </h2>
           <p>
             Der er i dag registreret
-            <u
+            <u @click="openInstitutions" style="cursor: pointer;"
               ><strong style="font-size: 1.3rem;">{{
                 this.$store.getters.mergedData.length
               }}</strong></u
             >
-            praktikpladser i region hovedstaden.
+            praktikpladser i region hovedstaden. <br />
+            <small style="font-size: 0.75rem;"
+              >NB: Hvis din praktikplads ikke er på listen så kontakt os på
+              <a href="mailto:sebastian@srmail.dk">sebastian@srmail.dk</a>
+            </small>
           </p>
         </div>
       </section>
@@ -73,7 +77,14 @@
 
 <script>
 export default {
-  name: "home"
+  name: "home",
+  methods: {
+    openInstitutions() {
+      this.$router.push({
+        name: "institutions"
+      });
+    }
+  }
 };
 </script>
 
