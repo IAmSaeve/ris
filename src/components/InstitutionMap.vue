@@ -1,5 +1,5 @@
 <template>
-  <div id="map"></div>
+  <div id="map" @click="hello"></div>
 </template>
 
 <script>
@@ -46,7 +46,18 @@ export default {
           this.result === undefined
             ? { lat: "56.2128586", lon: "9.3004301" }
             : [this.result.lat, this.result.lon],
-        zoom: this.result === undefined ? this.zoom : 15
+        zoom: this.result === undefined ? this.zoom : 15,
+        maxZoom: this.result === undefined ? this.zoom : 15,
+        minZoom: this.result === undefined ? this.zoom : 15,
+        dragging: false,
+        touchZoom: false,
+        scrollWheelZoom: false,
+        doubleClickZoom: false,
+        boxZoom: false,
+        tap: false,
+        keyboard: false,
+        zoomControl: false,
+        prefix: false
       });
       L.control.scale().addTo(map);
       if (this.result !== undefined) {
@@ -57,6 +68,25 @@ export default {
         attribution:
           '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
+    },
+    hello() {
+      if (
+        /* if we're on iOS, open in Apple Maps */
+        navigator.platform.indexOf("iPhone") != -1 ||
+        navigator.platform.indexOf("iPad") != -1 ||
+        navigator.platform.indexOf("iPod") != -1
+      )
+        window.open(
+          `maps://maps.google.com/maps/?q=${
+            this.place["Praktikstedets adresse"]
+          }`
+        );
+      /* else use Google */ else
+        window.open(
+          `https://maps.google.com/maps/?q=${
+            this.place["Praktikstedets adresse"]
+          }`
+        );
     }
   }
 };
@@ -66,5 +96,6 @@ export default {
 #map {
   width: 75%;
   height: 20rem;
+  cursor: pointer;
 }
 </style>
