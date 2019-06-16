@@ -2,7 +2,7 @@
   <div id="page-wrapper">
     <section id="two" class="wrapper alt style2">
       <section class="spotlight">
-        <div class="image"><img src="../assets/pic01.jpg" alt="" /></div>
+        <div class="image"><img src="../assets/pic01.jpg" /></div>
         <div class="content">
           <h2>
             Praktikpladser i alt
@@ -14,12 +14,12 @@
                 this.$store.getters.mergedData.length
               }}</strong></u
             >
-            praktikpladser i region syd danmark.
+            praktikpladser i region hovedstaden.
           </p>
         </div>
       </section>
       <section class="spotlight">
-        <div class="image"><img src="../assets/pic02.jpg" alt="" /></div>
+        <div class="image"><img src="../assets/pic02.jpg" /></div>
         <div class="content">
           <h2>
             LOREM IPSUM
@@ -31,7 +31,7 @@
         </div>
       </section>
       <section class="spotlight">
-        <div class="image"><img src="../assets/pic03.jpg" alt="" /></div>
+        <div class="image"><img src="../assets/pic03.jpg" /></div>
         <div class="content">
           <h2>
             LOREM IPSUM
