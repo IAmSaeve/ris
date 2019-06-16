@@ -1,5 +1,5 @@
 <template>
-  <div id="map" @click="hello"></div>
+  <div id="map" @click="openMapNative"></div>
 </template>
 
 <script>
@@ -69,7 +69,7 @@ export default {
           '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
     },
-    hello() {
+    openMapNative() {
       if (
         /* if we're on iOS, open in Apple Maps */
         navigator.platform.indexOf("iPhone") != -1 ||
